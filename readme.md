@@ -1,3 +1,3 @@
 # demo 2 
 
-making changes after linking the local repo with GiTHub repo
+now deleting what's inside to see the differences
